@@ -630,9 +630,9 @@ return [
         'template_not_found' => "Template file is not found: ':name'.",
         'error_generating_file' => "Error generating file: ':path'.",
         'error_loading_template' => "Error loading template file: ':name'.",
-        'select_plugin_first' => 'Please select a plugin first. To see the plugin list click the > icon on the left sidebar.',
-        'plugin_not_selected' => 'Plugin is not selected',
-        'add' => 'Add',
+        'select_plugin_first' => '请先选择一个插件。要查看插件列表，请单击左侧边栏上的>图标。.',
+        'plugin_not_selected' => '未选择插件',
+        'add' => '添加',
     ],
     'migration' => [
         'entity_name' => 'Migration',
