@@ -22,7 +22,7 @@ class Plugin extends PluginBase
     {
         return [
             'name'        => 'BuilderZhCnLang',
-            'description' => 'builder(构造器)中文语言包',
+            'description' => 'Builder plugin`s Chinese language pack',
             'author'      => 'TingFeng',
             'icon'        => 'icon-leaf'
         ];
